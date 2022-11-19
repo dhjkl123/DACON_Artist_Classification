@@ -4,7 +4,7 @@
 
 **Team** : AIVLE <br>
 **Member** : 이정연(연여니), 윤주한(juhans), 권석원(니어두손), 이우현(to_the_right), 신진영(jindol)
-
+ 
 **개발환경** : Google Colab Pro
 
 **개발경로** 
