@@ -26,4 +26,4 @@
 
 <br>
 
-**코드실행** : model_genre.ipynb 실행 후 multimodal_genre.ipynb 실행 이후 다른 ipynb 파일들은 각각 실행 후 ensemble.ipynb 실행
+**코드실행** : model_genre.ipynb 실행 후 multimodal_genre.ipynb 실행 이후 다른 ipynb 파일들은 각각 실행 후 ensemble.ipynb 실행 
